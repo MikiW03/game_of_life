@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5482a4e3-79d8-4e55-a54c-1a1e5f349cd6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2pWLjlAdUsskLyqqdjJfZDInmu9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.All in GameOfLife.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameOfLifeIntegrationTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GameOfLifePerformanceTest.compareThreadCounts.executor&quot;: &quot;Debug&quot;,
+    &quot;JUnit.GameOfLifeTest.testBlinker.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GenerationTaskTest.testProcessEdgeSection.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TinyBoardTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.input in GameOfLife.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.java in GameOfLife.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mikiw/Downloads/idea_plugin.zip&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mikiw\OneDrive - Politechnika Wroclawska\semestr3\jp\GameOfLife\src\main\resources\scenarios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="GameOfLife" />
+      <option name="PROGRAM_PARAMETERS" value="huge_space.txt 20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in GameOfLife" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GameOfLife" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameOfLifePerformanceTest.compareThreadCounts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GameOfLife" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.core.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game.core" />
+      <option name="MAIN_CLASS_NAME" value="game.core.GameOfLifePerformanceTest" />
+      <option name="METHOD_NAME" value="compareThreadCounts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinyBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GameOfLife" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.integration.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="game.integration" />
+      <option name="MAIN_CLASS_NAME" value="game.integration.TinyBoardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="input in GameOfLife" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GameOfLife" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java/game/input" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java in GameOfLife" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GameOfLife" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/src/test/java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All in GameOfLife" />
+      <item itemvalue="JUnit.GameOfLifePerformanceTest.compareThreadCounts" />
+      <item itemvalue="JUnit.TinyBoardTest" />
+      <item itemvalue="JUnit.input in GameOfLife" />
+      <item itemvalue="JUnit.java in GameOfLife" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.java in GameOfLife" />
+        <item itemvalue="JUnit.input in GameOfLife" />
+        <item itemvalue="JUnit.TinyBoardTest" />
+        <item itemvalue="JUnit.GameOfLifePerformanceTest.compareThreadCounts" />
+        <item itemvalue="JUnit.All in GameOfLife" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5482a4e3-79d8-4e55-a54c-1a1e5f349cd6" name="Changes" comment="" />
+      <created>1732877024533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732877024533</updated>
+      <workItem from="1732877025897" duration="20904000" />
+      <workItem from="1732913845327" duration="1139000" />
+      <workItem from="1732989301694" duration="258000" />
+      <workItem from="1733067824384" duration="524000" />
+      <workItem from="1733245823578" duration="91000" />
+      <workItem from="1733821818350" duration="3068000" />
+      <workItem from="1733858367253" duration="995000" />
+      <workItem from="1734023778546" duration="123000" />
+      <workItem from="1734023910995" duration="23000" />
+      <workItem from="1734078225675" duration="1635000" />
+      <workItem from="1735581601715" duration="91000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/game/core/GameOfLifeTest.java</url>
+          <line>38</line>
+          <properties class="game.core.GameOfLifeTest" method="testBlinker">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/game/task/GenerationTaskTest.java</url>
+          <line>61</line>
+          <properties class="game.task.GenerationTaskTest">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="game.input.GameConfig" memberName="livingCells" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>
